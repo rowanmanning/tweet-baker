@@ -10,7 +10,7 @@
 
     {
         "text": "Progressive enhancement. It\u2019s something you should just do http://t.co/fbZjmOxMkf /via @debugwand",
-        "html": "",
+        "html": "Progressive enhancement. It\u2019s something you should just do <a href=\"http://t.co/fbZjmOxMkf\">rown.me/12Tltuv</a> /via <a href=\"https://twitter.com/debugwand\" title=\"Dawn Budge\">@debugwand</a>",
         "entities": {
             "user_mentions": [{
                 "name": "Dawn Budge",
@@ -33,7 +33,7 @@
 
     {
         "text": "The toilet of fail\u2026 with @perryharlock http://t.co/XN0xYhnSPR",
-        "html": "",
+        "html": "The toilet of fail\u2026 with <a href=\"https://twitter.com/perryharlock\" title=\"Perry Harlock\">@perryharlock</a> <a href=\"http://t.co/XN0xYhnSPR\">pic.twitter.com/XN0xYhnSPR</a>",
         "entities": {
             "user_mentions": [{
                 "name": "Perry Harlock",
@@ -87,7 +87,7 @@
 
     {
         "text": "We (Nature) just open-sourced a super useful tool! pa11y: your automated accessibility testing pal. http://t.co/3Kh8YzfpJy #a11y #wc",
-        "html": "",
+        "html": "We (Nature) just open-sourced a super useful tool! pa11y: your automated accessibility testing pal. <a href=\"http://t.co/3Kh8YzfpJy\">rown.me/Zb97h3</a> <a href=\"https://twitter.com/search?q=%23a11y\">#a11y</a> <a href=\"https://twitter.com/search?q=%23wc\">#wc</a>",
         "entities": {
             "user_mentions": [],
             "media": [],
