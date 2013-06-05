@@ -1,9 +1,16 @@
 /* global describe, it */
 'use strict';
 
+// Dependencies
 var assert = require('proclaim');
-var tb = require('./../../lib/tweet-baker');
 
+// Fixtures
+var tweets = require('../fixtures/tweets.json');
+
+// Test subject
+var tb = require('../../lib/tweet-baker');
+
+// Tests
 describe('baker', function () {
 
     describe('.createEntityBaker()', function () {
@@ -55,7 +62,11 @@ describe('baker', function () {
             });
         });
 
-        it('should return the expected HTML');
+        it('should return the expected HTML', function () {
+            tweets.forEach(function (tweet) {
+                assert.strictEqual(tb.bakeEntities(tweet.text, tweet.entities), tweet.html);
+            });
+        });
 
     });
 
