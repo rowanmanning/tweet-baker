@@ -16,6 +16,9 @@
     "engines": {
         "node": ">=0.6"
     },
+    "dependencies": {
+        "hogan.js": "~2.0"
+    },
     "devDependencies": {
         "jshint": "~2.1",
         "mocha": "~1.10",
