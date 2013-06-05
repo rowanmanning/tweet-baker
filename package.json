@@ -1,0 +1,30 @@
+{
+    "name": "tweet-baker",
+    "version": "0.0.0",
+
+    "description": "Bake entities into your tweets",
+    "keywords": [ "entities", "tweet", "twitter" ],
+    "author": "Rowan Manning (http://rowanmanning.co.uk/)",
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rowanmanning/tweet-baker.git"
+    },
+    "homepage": "https://github.com/rowanmanning/tweet-baker",
+    "bugs": "https://github.com/rowanmanning/tweet-baker/issues",
+
+    "engines": {
+        "node": ">=0.6"
+    },
+    "devDependencies": {
+        "jshint": "~2.1",
+        "mocha": "~1.10",
+        "proclaim": "~1.2",
+        "sinon": "~1.7"
+    },
+
+    "main": "./lib/tweet-baker.js",
+    "scripts": {
+        "test": "make test"
+    }
+}
