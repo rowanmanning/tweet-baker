@@ -2,7 +2,7 @@
     "name": "tweet-baker",
     "version": "0.0.0",
 
-    "description": "Bake entities into your tweets",
+    "description": "Bake entities into your tweets; turning text plus entities into beautiful, customisable HTML.",
     "keywords": [ "entities", "tweet", "twitter" ],
     "author": "Rowan Manning (http://rowanmanning.com/)",
     "license": "MIT",
