@@ -5,6 +5,7 @@ Tweet Baker
 Bake [Twitter entities][twitter-entities] into your tweets; turning text plus entities into beautiful, customisable HTML. Useful when you're interacting with the Twitter API.
 
 **Current Version:** *0.0.0*  
+**Build Status:** [![Build Status][travis-img]][travis]  
 **Node Support:** *0.6*, *0.8*, *0.10*  
 **Browser Support:** *Android Browser 2.2–4.2*, *Firefox 3.6*, *Firefox 4–22*, *Google Chrome 14–28*, *Internet Explorer 6–10*, *Mobile Safari iOS 3–6*, *Safari 4–6*
 
@@ -104,5 +105,7 @@ Tweet Baker is licensed under the [MIT][mit] license.
 [component]: https://github.com/component/component
 [mit]: http://opensource.org/licenses/mit-license.php
 [node]: http://nodejs.org/
+[travis]: https://travis-ci.org/rowanmanning/tweet-baker
+[travis-img]: https://travis-ci.org/rowanmanning/tweet-baker.png?branch=master
 [twitter-entities]: https://dev.twitter.com/docs/tweet-entities
 [twitter-tweet]: https://dev.twitter.com/docs/platform-objects/tweets
