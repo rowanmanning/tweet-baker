@@ -1,0 +1,14 @@
+{
+    "name": "tweet-baker",
+    "version": "0.0.0",
+
+    "description": "Bake entities into your tweets",
+    "keywords": [ "entities", "tweet", "twitter" ],
+    "author": "Rowan Manning (http://rowanmanning.com/)",
+    "license": "MIT",
+
+    "homepage": "https://github.com/rowanmanning/tweet-baker",
+    "bugs": "https://github.com/rowanmanning/tweet-baker/issues",
+
+    "main": "./lib/tweet-baker.js"
+}
