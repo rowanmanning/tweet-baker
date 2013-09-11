@@ -2,7 +2,7 @@
 Tweet Baker
 ===========
 
-Bake [Twitter entities][twitter-entities] into your tweets; turning text plus entities into beautiful, customisable HTML. Useful when you're interacting with the Twitter API.
+Bake [tweet entities][twitter-entities] into your tweets; turning text plus entities into beautiful, customisable HTML. Useful when you're interacting with the Twitter API.
 
 **Current Version:** *1.0.0*  
 **Build Status:** [![Build Status][travis-img]][travis]  
@@ -107,5 +107,5 @@ Tweet Baker is licensed under the [MIT][mit] license.
 [node]: http://nodejs.org/
 [travis]: https://travis-ci.org/rowanmanning/tweet-baker
 [travis-img]: https://travis-ci.org/rowanmanning/tweet-baker.png?branch=master
-[twitter-entities]: https://dev.twitter.com/docs/tweet-entities
+[twitter-entities]: https://dev.twitter.com/docs/platform-objects/entities
 [twitter-tweet]: https://dev.twitter.com/docs/platform-objects/tweets
