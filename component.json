@@ -1,6 +1,6 @@
 {
     "name": "tweet-baker",
-    "version": "0.0.0",
+    "version": "1.0.0",
 
     "description": "Bake entities into your tweets; turning text plus entities into beautiful, customisable HTML.",
     "keywords": [ "entities", "tweet", "twitter" ],
