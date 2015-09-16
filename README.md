@@ -4,6 +4,8 @@ Tweet Baker
 
 Bake [tweet entities][twitter-entities] into your tweets; turning text plus entities into beautiful, customisable HTML. Useful when you're interacting with the Twitter API.
 
+**:bangbang: NOTE: This project is no longer being maintained. If you're interested in taking over maintenance of this repo, please contact me.**
+
 **Current Version:** *1.0.0*  
 **Build Status:** [![Build Status][travis-img]][travis]  
 **Node Support:** *0.6*, *0.8*, *0.10*  
